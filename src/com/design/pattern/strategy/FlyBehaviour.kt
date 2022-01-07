@@ -1,4 +1,4 @@
-package com.design.strategy.pattern
+package com.design.pattern.strategy
 
 interface FlyBehaviour {
     fun fly()

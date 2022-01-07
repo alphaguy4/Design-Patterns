@@ -1,4 +1,4 @@
-package com.design.observer.pattern
+package com.design.pattern.observer
 
 interface Subject {
     fun registerObserver(observer: Observer)

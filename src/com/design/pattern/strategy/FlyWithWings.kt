@@ -1,4 +1,4 @@
-package com.design.strategy.pattern
+package com.design.pattern.strategy
 
 class FlyWithWings: FlyBehaviour {
     override fun fly() {

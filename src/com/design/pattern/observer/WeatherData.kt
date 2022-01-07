@@ -1,4 +1,4 @@
-package com.design.observer.pattern
+package com.design.pattern.observer
 
 class WeatherData : Subject {
     private var observers: ArrayList<Observer> = ArrayList()

@@ -1,4 +1,4 @@
-package com.design.strategy.pattern
+package com.design.pattern.strategy
 
 /*
 * Design Principle 1: Identify aspects of the application that varies and separate them from the constants.

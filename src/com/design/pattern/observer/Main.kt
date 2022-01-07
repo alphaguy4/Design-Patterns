@@ -1,4 +1,4 @@
-package com.design.observer.pattern
+package com.design.pattern.observer
 fun main(args: Array<String>) {
     val weatherData = WeatherData()
 

@@ -1,4 +1,4 @@
-package com.design.strategy.pattern
+package com.design.pattern.strategy
 
 open class Quack: QuackBehaviour {
     override fun quack() {

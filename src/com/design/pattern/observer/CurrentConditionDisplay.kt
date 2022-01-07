@@ -1,6 +1,6 @@
-package com.design.observer.pattern
+package com.design.pattern.observer
 
-class CurrentConditionDisplay(val weatherData:  Subject): Observer, DisplayElement {
+class CurrentConditionDisplay(val weatherData: Subject): Observer, DisplayElement {
     private var temperature: Float = 100.0F
     private var humidity: Float = 56.4F
 
