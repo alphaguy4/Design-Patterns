@@ -1,6 +1,6 @@
 # Strategy Pattern
 
-If defines a family of algorithms and encapsulate each one and make them interchangeable.
+It defines a family of algorithms and encapsulate each one and make them interchangeable.
 Strategy lets algorithm vary independently from the clients that uses it.
 
 ## Notes on applying strategy pattern
