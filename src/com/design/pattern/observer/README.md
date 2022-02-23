@@ -14,6 +14,7 @@ The Observer pattern describes one to many dependency between objects so that wh
 * Major drawback in above case is classes that already extends different class can use java Observable classes.
 
 ## Design Principles
+* Identify the aspect of your application that vary and separate them from what stays the same.
 * Strive for loosely coupled design between objects that interact.
 * Program to an interface not an implementation.
 * Encapsulate what varies.
